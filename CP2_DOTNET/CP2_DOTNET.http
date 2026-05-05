@@ -1,0 +1,6 @@
+@CP2_DOTNET_HostAddress = http://localhost:5034
+
+GET {{CP2_DOTNET_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
