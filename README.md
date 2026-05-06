@@ -1,5 +1,10 @@
 # 📚 API RESTful - CP2 .NET
 
+## 📌 Participantes
+
+Julia Corrêa e Souza de Altino - RM564870
+
+
 ## 📌 Descrição do Projeto
 
 Este projeto consiste no desenvolvimento de uma API RESTful utilizando
