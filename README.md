@@ -3,6 +3,8 @@
 ## 📌 Participantes
 
 Julia Corrêa e Souza de Altino - RM564870
+Diego Andrade dos Santos - RM566385
+Grazielle de Alencar Silva - RM561529
 
 
 ## 📌 Descrição do Projeto
